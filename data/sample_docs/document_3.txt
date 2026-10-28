@@ -1,0 +1,8 @@
+
+Hybrid search combines semantic search with keyword-based search. Semantic search finds conceptually similar content using vector embeddings, while keyword search identifies exact words or phrases.
+
+BM25 is a keyword-based ranking algorithm used in information retrieval. It scores documents based on query-term matches and factors such as term frequency and document length.
+
+Reranking improves retrieval by reordering an initial set of candidate documents according to their relevance to a query. A reranker can help move the most useful chunks toward the top of the results.
+
+Metadata filtering restricts retrieval to documents that satisfy conditions such as category, source, or document identifier. Query rewriting transforms a user's question into a form that may retrieve more relevant information.

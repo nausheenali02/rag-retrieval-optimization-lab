@@ -1,0 +1,8 @@
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language models. Instead of relying only on information learned during training, a RAG system retrieves relevant external documents before generating an answer.
+
+A typical RAG pipeline includes document loading, text chunking, embedding generation, vector storage, similarity search, and answer generation.
+
+Chunk size and chunk overlap influence retrieval quality. Small chunks can provide precise information but may lose context. Larger chunks preserve context but may contain irrelevant information.
+
+Vector databases store embeddings and support similarity search. Chroma is a vector database commonly used to build retrieval-augmented generation applications.

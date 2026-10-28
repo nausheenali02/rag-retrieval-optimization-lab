@@ -1,0 +1,6 @@
+
+Python is a popular programming language used in artificial intelligence, machine learning, and web development. Its simple syntax makes it suitable for beginners and experienced developers.
+
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. Common machine learning tasks include classification, regression, and clustering.
+
+Supervised learning uses labeled training data. Examples include predicting house prices using regression and classifying emails as spam or not spam.

@@ -6,9 +6,7 @@ langchain-core
 langchain-text-splitters
 langchain-google-genai
 langchain-chroma
-
 chromadb
 rank-bm25
-
 pypdf
 docx2txt

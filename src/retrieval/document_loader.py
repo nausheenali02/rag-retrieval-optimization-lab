@@ -2,7 +2,6 @@ from pathlib import Path
 
 from langchain_core.documents import Document
 
-
 def load_sample_documents(data_dir: str = "data/sample_docs") -> list[Document]:
     """Load sample text files as LangChain Documents."""
     directory = Path(data_dir)
